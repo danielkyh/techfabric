@@ -1,7 +1,5 @@
 Types::QueryType = GraphQL::ObjectType.define do
   name "Query"
-  # Add root-level fields here.
-  # They will be entry points for queries on your schema.
   field :makes, !types[Types::MakeType] do
     argument :sort_column, Types::SortableMakeColumnsType, default_value: 'id'
     argument :sort_order, Types::SortOptionType, default_value: 'asc'
