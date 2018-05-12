@@ -1,0 +1,54 @@
+[
+    {
+        "make_id": 603,
+        "vehicle_type_id": 2,
+        "vehicle_type_name": "Passenger Car"
+    },
+    {
+        "make_id": 452,
+        "vehicle_type_id": 1,
+        "vehicle_type_name": "Motorcycle"
+    },
+    {
+        "make_id": 452,
+        "vehicle_type_id": 2,
+        "vehicle_type_name": "Passenger Car"
+    },
+    {
+        "make_id": 452,
+        "vehicle_type_id": 7,
+        "vehicle_type_name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+        "make_id": 441,
+        "vehicle_type_id": 2,
+        "vehicle_type_name": "Passenger Car"
+    },
+    {
+        "make_id": 444,
+        "vehicle_type_id": 7,
+        "vehicle_type_name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+        "make_id": 448,
+        "vehicle_type_id": 2,
+        "vehicle_type_name": "Passenger Car"
+    },
+    {
+        "make_id": 448,
+        "vehicle_type_id": 3,
+        "vehicle_type_name": "Truck"
+    },
+    {
+        "make_id": 448,
+        "vehicle_type_id": 7,
+        "vehicle_type_name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+        "make_id": 448,
+        "vehicle_type_id": 10,
+        "vehicle_type_name": "Incomplete Vehicle"
+    }
+]
+
+    

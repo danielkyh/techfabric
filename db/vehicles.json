@@ -1,0 +1,1846 @@
+[
+{
+    "make_id": 603,
+    "model_id": 3601,
+    "vehicle_name": "612 Scaglietti"
+},
+{
+    "make_id": 603,
+    "model_id": 3602,
+    "vehicle_name": "F430 Coupe"
+},
+{
+    "make_id": 603,
+    "model_id": 3603,
+    "vehicle_name": "599 GTB"
+},
+{
+    "make_id": 603,
+    "model_id": 3604,
+    "vehicle_name": "F430 Spider"
+},
+{
+    "make_id": 603,
+    "model_id": 3605,
+    "vehicle_name": "599 GTB Fiorano"
+},
+{
+    "make_id": 603,
+    "model_id": 3606,
+    "vehicle_name": "430 Scuderia"
+},
+{
+    "make_id": 603,
+    "model_id": 3607,
+    "vehicle_name": "F430"
+},
+{
+    "make_id": 603,
+    "model_id": 3635,
+    "vehicle_name": "430 Scuderia Spider"
+},
+{
+    "make_id": 603,
+    "model_id": 9939,
+    "vehicle_name": "360 Modena/360 Modena F1"
+},
+{
+    "make_id": 603,
+    "model_id": 9940,
+    "vehicle_name": "360 Spider/360 Spider F1"
+},
+{
+    "make_id": 603,
+    "model_id": 9941,
+    "vehicle_name": "575 M Maranello/575 M Maranello F1"
+},
+{
+    "make_id": 603,
+    "model_id": 9942,
+    "vehicle_name": "456 MGT"
+},
+{
+    "make_id": 603,
+    "model_id": 9943,
+    "vehicle_name": "456 MGTA"
+},
+{
+    "make_id": 603,
+    "model_id": 9944,
+    "vehicle_name": "Enzo"
+},
+{
+    "make_id": 603,
+    "model_id": 9954,
+    "vehicle_name": "F355"
+},
+{
+    "make_id": 603,
+    "model_id": 9957,
+    "vehicle_name": "550 Maranello"
+},
+{
+    "make_id": 603,
+    "model_id": 13843,
+    "vehicle_name": "F12 Berlinetta"
+},
+{
+    "make_id": 603,
+    "model_id": 13849,
+    "vehicle_name": "California T"
+},
+{
+    "make_id": 603,
+    "model_id": 13850,
+    "vehicle_name": "FF"
+},
+{
+    "make_id": 603,
+    "model_id": 13851,
+    "vehicle_name": "La Ferrari"
+},
+{
+    "make_id": 603,
+    "model_id": 13852,
+    "vehicle_name": "458 Italia"
+},
+{
+    "make_id": 603,
+    "model_id": 13853,
+    "vehicle_name": "458 Speciale"
+},
+{
+    "make_id": 603,
+    "model_id": 13854,
+    "vehicle_name": "458 Speciale Spider"
+},
+{
+    "make_id": 603,
+    "model_id": 13855,
+    "vehicle_name": "458 Spider"
+},
+{
+    "make_id": 603,
+    "model_id": 13856,
+    "vehicle_name": "California"
+},
+{
+    "make_id": 603,
+    "model_id": 13872,
+    "vehicle_name": "599 GTO"
+},
+{
+    "make_id": 603,
+    "model_id": 14016,
+    "vehicle_name": "348 tb"
+},
+{
+    "make_id": 603,
+    "model_id": 14017,
+    "vehicle_name": "348 ts"
+},
+{
+    "make_id": 603,
+    "model_id": 14020,
+    "vehicle_name": "512 TR"
+},
+{
+    "make_id": 603,
+    "model_id": 14024,
+    "vehicle_name": "355 Berlinetta"
+},
+{
+    "make_id": 603,
+    "model_id": 14025,
+    "vehicle_name": "355 GTS"
+},
+{
+    "make_id": 603,
+    "model_id": 14026,
+    "vehicle_name": "348 Spider"
+},
+{
+    "make_id": 603,
+    "model_id": 14027,
+    "vehicle_name": "456 GT"
+},
+{
+    "make_id": 603,
+    "model_id": 14028,
+    "vehicle_name": "355 Spider"
+},
+{
+    "make_id": 603,
+    "model_id": 14031,
+    "vehicle_name": "Mondial T"
+},
+{
+    "make_id": 603,
+    "model_id": 14038,
+    "vehicle_name": "Testarossa"
+},
+{
+    "make_id": 603,
+    "model_id": 14039,
+    "vehicle_name": "F40"
+},
+{
+    "make_id": 603,
+    "model_id": 14047,
+    "vehicle_name": "328 GTB"
+},
+{
+    "make_id": 603,
+    "model_id": 14048,
+    "vehicle_name": "328 GTS"
+},
+{
+    "make_id": 603,
+    "model_id": 14049,
+    "vehicle_name": "3.2 Mondial"
+},
+{
+    "make_id": 603,
+    "model_id": 14050,
+    "vehicle_name": "328"
+},
+{
+    "make_id": 603,
+    "model_id": 14052,
+    "vehicle_name": "308GTB Quattrovalvole"
+},
+{
+    "make_id": 603,
+    "model_id": 14053,
+    "vehicle_name": "308GTS Quattrovalvole"
+},
+{
+    "make_id": 603,
+    "model_id": 14054,
+    "vehicle_name": "Mondial Quattrovalvole"
+},
+{
+    "make_id": 603,
+    "model_id": 14055,
+    "vehicle_name": "Mondial 8"
+},
+{
+    "make_id": 603,
+    "model_id": 14056,
+    "vehicle_name": "308 Convertible"
+},
+{
+    "make_id": 603,
+    "model_id": 14111,
+    "vehicle_name": "488 GTB"
+},
+{
+    "make_id": 603,
+    "model_id": 14112,
+    "vehicle_name": "488 GTS"
+},
+{
+    "make_id": 603,
+    "model_id": 14113,
+    "vehicle_name": "F12 Special Series"
+},
+{
+    "make_id": 603,
+    "model_id": 14114,
+    "vehicle_name": "F60 America"
+},
+{
+    "make_id": 603,
+    "model_id": 14598,
+    "vehicle_name": "308GTBi"
+},
+{
+    "make_id": 603,
+    "model_id": 14599,
+    "vehicle_name": "308GTSi"
+},
+{
+    "make_id": 603,
+    "model_id": 14600,
+    "vehicle_name": "308GTB"
+},
+{
+    "make_id": 603,
+    "model_id": 14601,
+    "vehicle_name": "308GTS"
+},
+{
+    "make_id": 452,
+    "model_id": 1707,
+    "vehicle_name": "128i"
+},
+{
+    "make_id": 452,
+    "model_id": 1708,
+    "vehicle_name": "135i"
+},
+{
+    "make_id": 452,
+    "model_id": 1709,
+    "vehicle_name": "328i"
+},
+{
+    "make_id": 452,
+    "model_id": 1710,
+    "vehicle_name": "M3"
+},
+{
+    "make_id": 452,
+    "model_id": 1711,
+    "vehicle_name": "335i"
+},
+{
+    "make_id": 452,
+    "model_id": 1712,
+    "vehicle_name": "335is"
+},
+{
+    "make_id": 452,
+    "model_id": 1713,
+    "vehicle_name": "335d"
+},
+{
+    "make_id": 452,
+    "model_id": 1714,
+    "vehicle_name": "X6"
+},
+{
+    "make_id": 452,
+    "model_id": 1715,
+    "vehicle_name": "528i"
+},
+{
+    "make_id": 452,
+    "model_id": 1716,
+    "vehicle_name": "535i"
+},
+{
+    "make_id": 452,
+    "model_id": 1717,
+    "vehicle_name": "X5"
+},
+{
+    "make_id": 452,
+    "model_id": 1718,
+    "vehicle_name": "550i"
+},
+{
+    "make_id": 452,
+    "model_id": 1719,
+    "vehicle_name": "X3"
+},
+{
+    "make_id": 452,
+    "model_id": 1720,
+    "vehicle_name": "740i"
+},
+{
+    "make_id": 452,
+    "model_id": 1721,
+    "vehicle_name": "740Li"
+},
+{
+    "make_id": 452,
+    "model_id": 1722,
+    "vehicle_name": "750i"
+},
+{
+    "make_id": 452,
+    "model_id": 1723,
+    "vehicle_name": "750Li"
+},
+{
+    "make_id": 452,
+    "model_id": 1724,
+    "vehicle_name": "760Li"
+},
+{
+    "make_id": 452,
+    "model_id": 1725,
+    "vehicle_name": "Z4"
+},
+{
+    "make_id": 452,
+    "model_id": 1727,
+    "vehicle_name": "750xi"
+},
+{
+    "make_id": 452,
+    "model_id": 1728,
+    "vehicle_name": "750Lxi"
+},
+{
+    "make_id": 452,
+    "model_id": 1729,
+    "vehicle_name": "M6"
+},
+{
+    "make_id": 452,
+    "model_id": 1730,
+    "vehicle_name": "528xi"
+},
+{
+    "make_id": 452,
+    "model_id": 1731,
+    "vehicle_name": "640i"
+},
+{
+    "make_id": 452,
+    "model_id": 1732,
+    "vehicle_name": "650i"
+},
+{
+    "make_id": 452,
+    "model_id": 1733,
+    "vehicle_name": "650xi"
+},
+{
+    "make_id": 452,
+    "model_id": 1736,
+    "vehicle_name": "G450X"
+},
+{
+    "make_id": 452,
+    "model_id": 1737,
+    "vehicle_name": "F800S"
+},
+{
+    "make_id": 452,
+    "model_id": 1738,
+    "vehicle_name": "F800ST"
+},
+{
+    "make_id": 452,
+    "model_id": 1739,
+    "vehicle_name": "F800GS"
+},
+{
+    "make_id": 452,
+    "model_id": 1740,
+    "vehicle_name": "F800R"
+},
+{
+    "make_id": 452,
+    "model_id": 1741,
+    "vehicle_name": "HP2"
+},
+{
+    "make_id": 452,
+    "model_id": 1742,
+    "vehicle_name": "S1000RR"
+},
+{
+    "make_id": 452,
+    "model_id": 1743,
+    "vehicle_name": "R1200GS"
+},
+{
+    "make_id": 452,
+    "model_id": 1744,
+    "vehicle_name": "R1200R"
+},
+{
+    "make_id": 452,
+    "model_id": 1745,
+    "vehicle_name": "R1200RT"
+},
+{
+    "make_id": 452,
+    "model_id": 1746,
+    "vehicle_name": "K1300S"
+},
+{
+    "make_id": 452,
+    "model_id": 1747,
+    "vehicle_name": "K1300GT"
+},
+{
+    "make_id": 452,
+    "model_id": 1748,
+    "vehicle_name": "K1300R"
+},
+{
+    "make_id": 452,
+    "model_id": 1749,
+    "vehicle_name": "F650GS"
+},
+{
+    "make_id": 452,
+    "model_id": 1750,
+    "vehicle_name": "G650GS"
+},
+{
+    "make_id": 452,
+    "model_id": 1751,
+    "vehicle_name": "R900RT"
+},
+{
+    "make_id": 452,
+    "model_id": 1752,
+    "vehicle_name": "K1600GT"
+},
+{
+    "make_id": 452,
+    "model_id": 1753,
+    "vehicle_name": "K1600GTL"
+},
+{
+    "make_id": 452,
+    "model_id": 1754,
+    "vehicle_name": "F700GS"
+},
+{
+    "make_id": 452,
+    "model_id": 1755,
+    "vehicle_name": "F800GT"
+},
+{
+    "make_id": 452,
+    "model_id": 1756,
+    "vehicle_name": "C600"
+},
+{
+    "make_id": 452,
+    "model_id": 1757,
+    "vehicle_name": "C650GT"
+},
+{
+    "make_id": 452,
+    "model_id": 1758,
+    "vehicle_name": "HP4"
+},
+{
+    "make_id": 452,
+    "model_id": 1759,
+    "vehicle_name": "S1000R"
+},
+{
+    "make_id": 452,
+    "model_id": 1760,
+    "vehicle_name": "RnineT"
+},
+{
+    "make_id": 452,
+    "model_id": 1970,
+    "vehicle_name": "1M"
+},
+{
+    "make_id": 452,
+    "model_id": 1971,
+    "vehicle_name": "Active E"
+},
+{
+    "make_id": 452,
+    "model_id": 2024,
+    "vehicle_name": "M5"
+},
+{
+    "make_id": 452,
+    "model_id": 2170,
+    "vehicle_name": "228i"
+},
+{
+    "make_id": 452,
+    "model_id": 2171,
+    "vehicle_name": "M235i"
+},
+{
+    "make_id": 452,
+    "model_id": 2172,
+    "vehicle_name": "320i"
+},
+{
+    "make_id": 452,
+    "model_id": 2173,
+    "vehicle_name": "328d"
+},
+{
+    "make_id": 452,
+    "model_id": 2178,
+    "vehicle_name": "i3"
+},
+{
+    "make_id": 452,
+    "model_id": 2179,
+    "vehicle_name": "i8"
+},
+{
+    "make_id": 452,
+    "model_id": 2219,
+    "vehicle_name": "ActiveHybrid 3"
+},
+{
+    "make_id": 452,
+    "model_id": 2220,
+    "vehicle_name": "428i"
+},
+{
+    "make_id": 452,
+    "model_id": 2221,
+    "vehicle_name": "438i"
+},
+{
+    "make_id": 452,
+    "model_id": 2230,
+    "vehicle_name": "435i"
+},
+{
+    "make_id": 452,
+    "model_id": 2231,
+    "vehicle_name": "535d"
+},
+{
+    "make_id": 452,
+    "model_id": 2240,
+    "vehicle_name": "ActiveHybrid 5"
+},
+{
+    "make_id": 452,
+    "model_id": 2300,
+    "vehicle_name": "X1"
+},
+{
+    "make_id": 452,
+    "model_id": 2350,
+    "vehicle_name": "R1150GS"
+},
+{
+    "make_id": 452,
+    "model_id": 2351,
+    "vehicle_name": "R1200S"
+},
+{
+    "make_id": 452,
+    "model_id": 2352,
+    "vehicle_name": "R1200ST"
+},
+{
+    "make_id": 452,
+    "model_id": 2353,
+    "vehicle_name": "K1200R"
+},
+{
+    "make_id": 452,
+    "model_id": 2354,
+    "vehicle_name": "K1200S"
+},
+{
+    "make_id": 452,
+    "model_id": 2355,
+    "vehicle_name": "K1200LT"
+},
+{
+    "make_id": 452,
+    "model_id": 2359,
+    "vehicle_name": "K1200GT"
+},
+{
+    "make_id": 452,
+    "model_id": 2360,
+    "vehicle_name": "R1150R"
+},
+{
+    "make_id": 452,
+    "model_id": 2361,
+    "vehicle_name": "R850R"
+},
+{
+    "make_id": 452,
+    "model_id": 2362,
+    "vehicle_name": "G650 Xchallenge"
+},
+{
+    "make_id": 452,
+    "model_id": 2363,
+    "vehicle_name": "G650 Xcountry"
+},
+{
+    "make_id": 452,
+    "model_id": 2364,
+    "vehicle_name": "G650 Xmoto"
+},
+{
+    "make_id": 452,
+    "model_id": 2376,
+    "vehicle_name": "535xi"
+},
+{
+    "make_id": 452,
+    "model_id": 2377,
+    "vehicle_name": "328xi"
+},
+{
+    "make_id": 452,
+    "model_id": 2378,
+    "vehicle_name": "335xi"
+},
+{
+    "make_id": 452,
+    "model_id": 2584,
+    "vehicle_name": "525i"
+},
+{
+    "make_id": 452,
+    "model_id": 2585,
+    "vehicle_name": "530i"
+},
+{
+    "make_id": 452,
+    "model_id": 2586,
+    "vehicle_name": "530xi"
+},
+{
+    "make_id": 452,
+    "model_id": 2587,
+    "vehicle_name": "525xi"
+},
+{
+    "make_id": 452,
+    "model_id": 2759,
+    "vehicle_name": "325Cic"
+},
+{
+    "make_id": 452,
+    "model_id": 2760,
+    "vehicle_name": "330Cic"
+},
+{
+    "make_id": 452,
+    "model_id": 2761,
+    "vehicle_name": "M3Cic"
+},
+{
+    "make_id": 452,
+    "model_id": 2762,
+    "vehicle_name": "325Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 2763,
+    "vehicle_name": "330Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 2764,
+    "vehicle_name": "325i"
+},
+{
+    "make_id": 452,
+    "model_id": 2765,
+    "vehicle_name": "325xi"
+},
+{
+    "make_id": 452,
+    "model_id": 2766,
+    "vehicle_name": "325xiT"
+},
+{
+    "make_id": 452,
+    "model_id": 2767,
+    "vehicle_name": "530xiT"
+},
+{
+    "make_id": 452,
+    "model_id": 2777,
+    "vehicle_name": "330i"
+},
+{
+    "make_id": 452,
+    "model_id": 2778,
+    "vehicle_name": "330xi"
+},
+{
+    "make_id": 452,
+    "model_id": 2804,
+    "vehicle_name": "760i"
+},
+{
+    "make_id": 452,
+    "model_id": 2887,
+    "vehicle_name": "HP2 Megamoto"
+},
+{
+    "make_id": 452,
+    "model_id": 2888,
+    "vehicle_name": "HP2 Sport"
+},
+{
+    "make_id": 452,
+    "model_id": 3050,
+    "vehicle_name": "325iT"
+},
+{
+    "make_id": 452,
+    "model_id": 3051,
+    "vehicle_name": "545i"
+},
+{
+    "make_id": 452,
+    "model_id": 3052,
+    "vehicle_name": "645Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 3053,
+    "vehicle_name": "645Cic"
+},
+{
+    "make_id": 452,
+    "model_id": 3054,
+    "vehicle_name": "745i"
+},
+{
+    "make_id": 452,
+    "model_id": 3055,
+    "vehicle_name": "745Li"
+},
+{
+    "make_id": 452,
+    "model_id": 3159,
+    "vehicle_name": "M"
+},
+{
+    "make_id": 452,
+    "model_id": 5094,
+    "vehicle_name": "K1100RS"
+},
+{
+    "make_id": 452,
+    "model_id": 5095,
+    "vehicle_name": "K75"
+},
+{
+    "make_id": 452,
+    "model_id": 5096,
+    "vehicle_name": "K75S"
+},
+{
+    "make_id": 452,
+    "model_id": 5097,
+    "vehicle_name": "K75RT"
+},
+{
+    "make_id": 452,
+    "model_id": 5098,
+    "vehicle_name": "K1100LT"
+},
+{
+    "make_id": 452,
+    "model_id": 5099,
+    "vehicle_name": "R100"
+},
+{
+    "make_id": 452,
+    "model_id": 5100,
+    "vehicle_name": "R100R"
+},
+{
+    "make_id": 452,
+    "model_id": 5101,
+    "vehicle_name": "R100RT"
+},
+{
+    "make_id": 452,
+    "model_id": 5102,
+    "vehicle_name": "R100GS"
+},
+{
+    "make_id": 452,
+    "model_id": 5104,
+    "vehicle_name": "R1100R"
+},
+{
+    "make_id": 452,
+    "model_id": 5105,
+    "vehicle_name": "R1100RS"
+},
+{
+    "make_id": 452,
+    "model_id": 5106,
+    "vehicle_name": "R1100GS"
+},
+{
+    "make_id": 452,
+    "model_id": 5108,
+    "vehicle_name": "F650"
+},
+{
+    "make_id": 452,
+    "model_id": 5109,
+    "vehicle_name": "F650S"
+},
+{
+    "make_id": 452,
+    "model_id": 5110,
+    "vehicle_name": "R1100RT"
+},
+{
+    "make_id": 452,
+    "model_id": 5111,
+    "vehicle_name": "K1200RS"
+},
+{
+    "make_id": 452,
+    "model_id": 5112,
+    "vehicle_name": "R1200C"
+},
+{
+    "make_id": 452,
+    "model_id": 5132,
+    "vehicle_name": "F650CS"
+},
+{
+    "make_id": 452,
+    "model_id": 5136,
+    "vehicle_name": "R1100S"
+},
+{
+    "make_id": 452,
+    "model_id": 5137,
+    "vehicle_name": "R1150RS"
+},
+{
+    "make_id": 452,
+    "model_id": 5138,
+    "vehicle_name": "R1150RT"
+},
+{
+    "make_id": 452,
+    "model_id": 5139,
+    "vehicle_name": "R1200CL"
+},
+{
+    "make_id": 452,
+    "model_id": 5178,
+    "vehicle_name": "318i"
+},
+{
+    "make_id": 452,
+    "model_id": 5185,
+    "vehicle_name": "318iS"
+},
+{
+    "make_id": 452,
+    "model_id": 5186,
+    "vehicle_name": "318iC"
+},
+{
+    "make_id": 452,
+    "model_id": 5187,
+    "vehicle_name": "325iS"
+},
+{
+    "make_id": 452,
+    "model_id": 5190,
+    "vehicle_name": "325iC"
+},
+{
+    "make_id": 452,
+    "model_id": 5193,
+    "vehicle_name": "525iT"
+},
+{
+    "make_id": 452,
+    "model_id": 5194,
+    "vehicle_name": "530iT"
+},
+{
+    "make_id": 452,
+    "model_id": 5195,
+    "vehicle_name": "540i"
+},
+{
+    "make_id": 452,
+    "model_id": 5198,
+    "vehicle_name": "840Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 5199,
+    "vehicle_name": "850Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 5200,
+    "vehicle_name": "850CSi"
+},
+{
+    "make_id": 452,
+    "model_id": 5217,
+    "vehicle_name": "318ti"
+},
+{
+    "make_id": 452,
+    "model_id": 5237,
+    "vehicle_name": "328iC"
+},
+{
+    "make_id": 452,
+    "model_id": 5238,
+    "vehicle_name": "328iS"
+},
+{
+    "make_id": 452,
+    "model_id": 5239,
+    "vehicle_name": "Z3"
+},
+{
+    "make_id": 452,
+    "model_id": 5253,
+    "vehicle_name": "323i"
+},
+{
+    "make_id": 452,
+    "model_id": 5254,
+    "vehicle_name": "323is"
+},
+{
+    "make_id": 452,
+    "model_id": 5255,
+    "vehicle_name": "323iC"
+},
+{
+    "make_id": 452,
+    "model_id": 5324,
+    "vehicle_name": "Z8"
+},
+{
+    "make_id": 452,
+    "model_id": 5343,
+    "vehicle_name": "525iA"
+},
+{
+    "make_id": 452,
+    "model_id": 5347,
+    "vehicle_name": "530iA"
+},
+{
+    "make_id": 452,
+    "model_id": 5348,
+    "vehicle_name": "540iA"
+},
+{
+    "make_id": 452,
+    "model_id": 5349,
+    "vehicle_name": "525iAT"
+},
+{
+    "make_id": 452,
+    "model_id": 5350,
+    "vehicle_name": "540iAT"
+},
+{
+    "make_id": 452,
+    "model_id": 5355,
+    "vehicle_name": "Alpina"
+},
+{
+    "make_id": 452,
+    "model_id": 5384,
+    "vehicle_name": "645i"
+},
+{
+    "make_id": 452,
+    "model_id": 5992,
+    "vehicle_name": "X4"
+},
+{
+    "make_id": 452,
+    "model_id": 9253,
+    "vehicle_name": "335"
+},
+{
+    "make_id": 452,
+    "model_id": 9452,
+    "vehicle_name": "740iL"
+},
+{
+    "make_id": 452,
+    "model_id": 9453,
+    "vehicle_name": "750iL"
+},
+{
+    "make_id": 452,
+    "model_id": 9459,
+    "vehicle_name": "M3Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 9547,
+    "vehicle_name": "ActiveHybrid 7"
+},
+{
+    "make_id": 452,
+    "model_id": 9567,
+    "vehicle_name": "M2"
+},
+{
+    "make_id": 452,
+    "model_id": 9568,
+    "vehicle_name": "340i"
+},
+{
+    "make_id": 452,
+    "model_id": 9569,
+    "vehicle_name": "330e"
+},
+{
+    "make_id": 452,
+    "model_id": 9570,
+    "vehicle_name": "M4"
+},
+{
+    "make_id": 452,
+    "model_id": 10045,
+    "vehicle_name": "S1000XR"
+},
+{
+    "make_id": 452,
+    "model_id": 10046,
+    "vehicle_name": "R1200RS"
+},
+{
+    "make_id": 452,
+    "model_id": 10047,
+    "vehicle_name": "C650"
+},
+{
+    "make_id": 452,
+    "model_id": 10587,
+    "vehicle_name": "328Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 13367,
+    "vehicle_name": "R1200GS Adventure "
+},
+{
+    "make_id": 452,
+    "model_id": 13368,
+    "vehicle_name": "F650GS Dakar "
+},
+{
+    "make_id": 452,
+    "model_id": 13369,
+    "vehicle_name": "R1200GS HP2"
+},
+{
+    "make_id": 452,
+    "model_id": 13370,
+    "vehicle_name": "R1200RT-P (Spec. purpose)"
+},
+{
+    "make_id": 452,
+    "model_id": 13371,
+    "vehicle_name": "R1150R Rockster"
+},
+{
+    "make_id": 452,
+    "model_id": 13372,
+    "vehicle_name": "R1200C Independent "
+},
+{
+    "make_id": 452,
+    "model_id": 13373,
+    "vehicle_name": "R1200C Montauk"
+},
+{
+    "make_id": 452,
+    "model_id": 13374,
+    "vehicle_name": "R1200C Phoenix"
+},
+{
+    "make_id": 452,
+    "model_id": 13375,
+    "vehicle_name": "R100GSPD"
+},
+{
+    "make_id": 452,
+    "model_id": 13376,
+    "vehicle_name": "R100R - MYSTIC"
+},
+{
+    "make_id": 452,
+    "model_id": 13425,
+    "vehicle_name": "735i"
+},
+{
+    "make_id": 452,
+    "model_id": 13426,
+    "vehicle_name": "735iL"
+},
+{
+    "make_id": 452,
+    "model_id": 13427,
+    "vehicle_name": "850i"
+},
+{
+    "make_id": 452,
+    "model_id": 13429,
+    "vehicle_name": "325ix"
+},
+{
+    "make_id": 452,
+    "model_id": 13431,
+    "vehicle_name": "325/325e"
+},
+{
+    "make_id": 452,
+    "model_id": 13437,
+    "vehicle_name": "635CSi"
+},
+{
+    "make_id": 452,
+    "model_id": 13438,
+    "vehicle_name": "535i/535is"
+},
+{
+    "make_id": 452,
+    "model_id": 13439,
+    "vehicle_name": "L7"
+},
+{
+    "make_id": 452,
+    "model_id": 13442,
+    "vehicle_name": "524td"
+},
+{
+    "make_id": 452,
+    "model_id": 13448,
+    "vehicle_name": "528e"
+},
+{
+    "make_id": 452,
+    "model_id": 13449,
+    "vehicle_name": "325e"
+},
+{
+    "make_id": 452,
+    "model_id": 13459,
+    "vehicle_name": "325i/325is"
+},
+{
+    "make_id": 452,
+    "model_id": 13825,
+    "vehicle_name": "230i"
+},
+{
+    "make_id": 452,
+    "model_id": 13826,
+    "vehicle_name": "M240i"
+},
+{
+    "make_id": 452,
+    "model_id": 13827,
+    "vehicle_name": "430i"
+},
+{
+    "make_id": 452,
+    "model_id": 13828,
+    "vehicle_name": "440i"
+},
+{
+    "make_id": 452,
+    "model_id": 13833,
+    "vehicle_name": "B6"
+},
+{
+    "make_id": 452,
+    "model_id": 13834,
+    "vehicle_name": "B7"
+},
+{
+    "make_id": 452,
+    "model_id": 13835,
+    "vehicle_name": "740e"
+},
+{
+    "make_id": 452,
+    "model_id": 13868,
+    "vehicle_name": "750i / ALPINA B7"
+},
+{
+    "make_id": 452,
+    "model_id": 14123,
+    "vehicle_name": "323Ci"
+},
+{
+    "make_id": 452,
+    "model_id": 14503,
+    "vehicle_name": "533i"
+},
+{
+    "make_id": 452,
+    "model_id": 14504,
+    "vehicle_name": "633 csi"
+},
+{
+    "make_id": 452,
+    "model_id": 14505,
+    "vehicle_name": "733i"
+},
+{
+    "make_id": 452,
+    "model_id": 14578,
+    "vehicle_name": "R100RS"
+},
+{
+    "make_id": 452,
+    "model_id": 14579,
+    "vehicle_name": "K100 LT"
+},
+{
+    "make_id": 452,
+    "model_id": 14580,
+    "vehicle_name": "K100 RS"
+},
+{
+    "make_id": 452,
+    "model_id": 14581,
+    "vehicle_name": "K1"
+},
+{
+    "make_id": 452,
+    "model_id": 14583,
+    "vehicle_name": "K100"
+},
+{
+    "make_id": 452,
+    "model_id": 14584,
+    "vehicle_name": "K100 RT"
+},
+{
+    "make_id": 452,
+    "model_id": 14585,
+    "vehicle_name": "R65"
+},
+{
+    "make_id": 452,
+    "model_id": 14586,
+    "vehicle_name": "R80"
+},
+{
+    "make_id": 452,
+    "model_id": 14587,
+    "vehicle_name": "R80 RT"
+},
+{
+    "make_id": 452,
+    "model_id": 14588,
+    "vehicle_name": "R80 GS"
+},
+{
+    "make_id": 452,
+    "model_id": 14589,
+    "vehicle_name": "R65 LS"
+},
+{
+    "make_id": 452,
+    "model_id": 14590,
+    "vehicle_name": "R80 ST"
+},
+{
+    "make_id": 452,
+    "model_id": 14829,
+    "vehicle_name": "R100CS"
+},
+{
+    "make_id": 452,
+    "model_id": 15920,
+    "vehicle_name": "K70"
+},
+{
+    "make_id": 452,
+    "model_id": 15921,
+    "vehicle_name": "K72"
+},
+{
+    "make_id": 452,
+    "model_id": 15922,
+    "vehicle_name": "K71"
+},
+{
+    "make_id": 452,
+    "model_id": 15923,
+    "vehicle_name": "K73"
+},
+{
+    "make_id": 452,
+    "model_id": 15924,
+    "vehicle_name": "K03"
+},
+{
+    "make_id": 452,
+    "model_id": 15925,
+    "vehicle_name": "K46"
+},
+{
+    "make_id": 452,
+    "model_id": 15926,
+    "vehicle_name": "K47"
+},
+{
+    "make_id": 452,
+    "model_id": 15927,
+    "vehicle_name": "K49"
+},
+{
+    "make_id": 452,
+    "model_id": 15928,
+    "vehicle_name": "K50"
+},
+{
+    "make_id": 452,
+    "model_id": 15929,
+    "vehicle_name": "K52"
+},
+{
+    "make_id": 452,
+    "model_id": 15930,
+    "vehicle_name": "K51"
+},
+{
+    "make_id": 452,
+    "model_id": 15931,
+    "vehicle_name": "K53"
+},
+{
+    "make_id": 452,
+    "model_id": 15932,
+    "vehicle_name": "K54"
+},
+{
+    "make_id": 452,
+    "model_id": 15933,
+    "vehicle_name": "K21"
+},
+{
+    "make_id": 452,
+    "model_id": 15934,
+    "vehicle_name": "K22"
+},
+{
+    "make_id": 452,
+    "model_id": 15935,
+    "vehicle_name": "K32"
+},
+{
+    "make_id": 452,
+    "model_id": 15936,
+    "vehicle_name": "K18"
+},
+{
+    "make_id": 452,
+    "model_id": 15937,
+    "vehicle_name": "K19"
+},
+{
+    "make_id": 452,
+    "model_id": 15938,
+    "vehicle_name": "K48"
+},
+{
+    "make_id": 452,
+    "model_id": 15939,
+    "vehicle_name": "K17"
+},
+{
+    "make_id": 452,
+    "model_id": 19172,
+    "vehicle_name": "730i"
+},
+{
+    "make_id": 452,
+    "model_id": 20811,
+    "vehicle_name": "540d"
+},
+{
+    "make_id": 452,
+    "model_id": 20813,
+    "vehicle_name": "530e"
+},
+{
+    "make_id": 452,
+    "model_id": 20814,
+    "vehicle_name": "M550i"
+},
+{
+    "make_id": 452,
+    "model_id": 20815,
+    "vehicle_name": "M760i"
+},
+{
+    "make_id": 452,
+    "model_id": 21787,
+    "vehicle_name": "650i / ALPINA B6"
+},
+{
+    "make_id": 452,
+    "model_id": 21788,
+    "vehicle_name": "750Li / ALPINA B7"
+},
+{
+    "make_id": 452,
+    "model_id": 21790,
+    "vehicle_name": "750Lxi / ALPINA B7"
+},
+{
+    "make_id": 452,
+    "model_id": 21791,
+    "vehicle_name": "750xi / ALPINA B7"
+},
+{
+    "make_id": 452,
+    "model_id": 21792,
+    "vehicle_name": "750i / B7"
+},
+{
+    "make_id": 452,
+    "model_id": 21793,
+    "vehicle_name": "650i / B6"
+},
+{
+    "make_id": 441,
+    "model_id": 1685,
+    "vehicle_name": "Model S"
+},
+{
+    "make_id": 441,
+    "model_id": 2071,
+    "vehicle_name": "Roadster"
+},
+{
+    "make_id": 441,
+    "model_id": 10199,
+    "vehicle_name": "Model X"
+},
+{
+    "make_id": 441,
+    "model_id": 17834,
+    "vehicle_name": "Model 3"
+},
+{
+    "make_id": 444,
+    "model_id": 2241,
+    "vehicle_name": "Discovery Sport"
+},
+{
+    "make_id": 444,
+    "model_id": 2243,
+    "vehicle_name": "LR2"
+},
+{
+    "make_id": 444,
+    "model_id": 2244,
+    "vehicle_name": "Range Rover Evoque"
+},
+{
+    "make_id": 444,
+    "model_id": 2245,
+    "vehicle_name": "LR4"
+},
+{
+    "make_id": 444,
+    "model_id": 2246,
+    "vehicle_name": "Range Rover Sport"
+},
+{
+    "make_id": 444,
+    "model_id": 2247,
+    "vehicle_name": "Range Rover"
+},
+{
+    "make_id": 444,
+    "model_id": 2301,
+    "vehicle_name": "LR3"
+},
+{
+    "make_id": 444,
+    "model_id": 9337,
+    "vehicle_name": "Discovery"
+},
+{
+    "make_id": 444,
+    "model_id": 9338,
+    "vehicle_name": "Freelander"
+},
+{
+    "make_id": 444,
+    "model_id": 9345,
+    "vehicle_name": "Defender"
+},
+{
+    "make_id": 444,
+    "model_id": 19055,
+    "vehicle_name": "Range Rover Velar"
+},
+{
+    "make_id": 448,
+    "model_id": 2206,
+    "vehicle_name": "SCION xA"
+},
+{
+    "make_id": 448,
+    "model_id": 2207,
+    "vehicle_name": "SCION tC"
+},
+{
+    "make_id": 448,
+    "model_id": 2208,
+    "vehicle_name": "Corolla"
+},
+{
+    "make_id": 448,
+    "model_id": 2209,
+    "vehicle_name": "PRIUS"
+},
+{
+    "make_id": 448,
+    "model_id": 2210,
+    "vehicle_name": "SCION xB"
+},
+{
+    "make_id": 448,
+    "model_id": 2211,
+    "vehicle_name": "LAND CRUISER"
+},
+{
+    "make_id": 448,
+    "model_id": 2213,
+    "vehicle_name": "Highlander"
+},
+{
+    "make_id": 448,
+    "model_id": 2216,
+    "vehicle_name": "4-Runner"
+},
+{
+    "make_id": 448,
+    "model_id": 2217,
+    "vehicle_name": "RAV4"
+},
+{
+    "make_id": 448,
+    "model_id": 2223,
+    "vehicle_name": "Tacoma"
+},
+{
+    "make_id": 448,
+    "model_id": 2315,
+    "vehicle_name": "Scion FR-S"
+},
+{
+    "make_id": 448,
+    "model_id": 2463,
+    "vehicle_name": "FJ Cruiser"
+},
+{
+    "make_id": 448,
+    "model_id": 2464,
+    "vehicle_name": "Yaris"
+},
+{
+    "make_id": 448,
+    "model_id": 2465,
+    "vehicle_name": "Avalon"
+},
+{
+    "make_id": 448,
+    "model_id": 2466,
+    "vehicle_name": "Corolla Matrix"
+},
+{
+    "make_id": 448,
+    "model_id": 2467,
+    "vehicle_name": "Tundra"
+},
+{
+    "make_id": 448,
+    "model_id": 2468,
+    "vehicle_name": "Sienna"
+},
+{
+    "make_id": 448,
+    "model_id": 2469,
+    "vehicle_name": "Camry"
+},
+{
+    "make_id": 448,
+    "model_id": 2803,
+    "vehicle_name": "Solara"
+},
+{
+    "make_id": 448,
+    "model_id": 2827,
+    "vehicle_name": "Sequoia"
+},
+{
+    "make_id": 448,
+    "model_id": 2933,
+    "vehicle_name": "SCION xD"
+},
+{
+    "make_id": 448,
+    "model_id": 3005,
+    "vehicle_name": "Venza"
+},
+{
+    "make_id": 448,
+    "model_id": 3155,
+    "vehicle_name": "FCHV-adv"
+},
+{
+    "make_id": 448,
+    "model_id": 3644,
+    "vehicle_name": "Tercel"
+},
+{
+    "make_id": 448,
+    "model_id": 3645,
+    "vehicle_name": "Celica"
+},
+{
+    "make_id": 448,
+    "model_id": 3646,
+    "vehicle_name": "Celica Supra"
+},
+{
+    "make_id": 448,
+    "model_id": 3647,
+    "vehicle_name": "Supra"
+},
+{
+    "make_id": 448,
+    "model_id": 3648,
+    "vehicle_name": "MR2"
+},
+{
+    "make_id": 448,
+    "model_id": 3649,
+    "vehicle_name": "Paseo"
+},
+{
+    "make_id": 448,
+    "model_id": 3650,
+    "vehicle_name": "Echo"
+},
+{
+    "make_id": 448,
+    "model_id": 3655,
+    "vehicle_name": "Cressida"
+},
+{
+    "make_id": 448,
+    "model_id": 3656,
+    "vehicle_name": "1/2 ton"
+},
+{
+    "make_id": 448,
+    "model_id": 3659,
+    "vehicle_name": "1-ton"
+},
+{
+    "make_id": 448,
+    "model_id": 3660,
+    "vehicle_name": "Cargo Van"
+},
+{
+    "make_id": 448,
+    "model_id": 9373,
+    "vehicle_name": "Previa"
+},
+{
+    "make_id": 448,
+    "model_id": 9374,
+    "vehicle_name": "T100"
+},
+{
+    "make_id": 448,
+    "model_id": 10198,
+    "vehicle_name": "Mirai"
+},
+{
+    "make_id": 448,
+    "model_id": 10241,
+    "vehicle_name": "Scion iQ"
+},
+{
+    "make_id": 448,
+    "model_id": 11501,
+    "vehicle_name": "Scion iM"
+},
+{
+    "make_id": 448,
+    "model_id": 11529,
+    "vehicle_name": "Compact Truck"
+},
+{
+    "make_id": 448,
+    "model_id": 13602,
+    "vehicle_name": "86"
+},
+{
+    "make_id": 448,
+    "model_id": 13603,
+    "vehicle_name": "Scion iA"
+},
+{
+    "make_id": 448,
+    "model_id": 13822,
+    "vehicle_name": "Prius V"
+},
+{
+    "make_id": 448,
+    "model_id": 13823,
+    "vehicle_name": "Prius C"
+},
+{
+    "make_id": 448,
+    "model_id": 13824,
+    "vehicle_name": "Prius Plug-in"
+},
+{
+    "make_id": 448,
+    "model_id": 14263,
+    "vehicle_name": "Pick-Up"
+},
+{
+    "make_id": 448,
+    "model_id": 14264,
+    "vehicle_name": "Van"
+},
+{
+    "make_id": 448,
+    "model_id": 14510,
+    "vehicle_name": "Starlet"
+},
+{
+    "make_id": 448,
+    "model_id": 14551,
+    "vehicle_name": "Corona"
+},
+{
+    "make_id": 448,
+    "model_id": 15800,
+    "vehicle_name": "COROLLA iM"
+},
+{
+    "make_id": 448,
+    "model_id": 17213,
+    "vehicle_name": "C-HR"
+},
+{
+    "make_id": 448,
+    "model_id": 17620,
+    "vehicle_name": "CAMRY HYBRID"
+},
+{
+    "make_id": 448,
+    "model_id": 21950,
+    "vehicle_name": "Prius Prime"
+}]
