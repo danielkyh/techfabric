@@ -1,6 +1,6 @@
-Types::VehicleDetailsType = GraphQL::ObjectType.define do
-  name "Vehicle Details"
-	description "Vehicle Type Model"
+Types::VehicleDetailType = GraphQL::ObjectType.define do
+  name "VehicleDetail"
+	description "Vehicle Detail Type Model"
 
   field :id, !types.ID
   field :vehicle_type_name, !types.String
