@@ -1,6 +1,6 @@
 Types::SortableVehicleColumnType = GraphQL::EnumType.define do
   name "SortableVehicleColumn"
-	description "Possible sorting options"
+	description "Possible sorting columns"
 
   value("id", "Sort by id")
   value("make_id", "Sort by vehichle type id")
