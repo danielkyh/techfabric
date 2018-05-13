@@ -5,11 +5,11 @@
 * Configuration
 
 #### Database creation
-  rake db:create
+* rake db:create
 
 #### Database initialization
-  rake db:migrate
-  rake db:seed
+* rake db:migrate
+* rake db:seed
 
 #### How to run the test suite
-  rspec
+* rspec
